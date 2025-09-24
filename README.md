@@ -2,23 +2,11 @@
 
 # Hey! I'm Dhio Rizqi 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;Laravel+%26+Vue+Enthusiast+💜;Coffee+Lover+☕;Music+%26+Code+🎵" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;Laravel+%26+Vue;Coffee+Lover+☕;Music+%26+Code+🎵" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎵%20Currently%20Vibing%20to-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </p>
-
-</div>
-
----
-
-## 🎵 Currently Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-dhiorizqi.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
-
-*Click above to see what I'm currently listening to while coding! 🎧*
 
 </div>
 
@@ -50,10 +38,9 @@ console.log("I can code for hours with good music! 🎵");
 <td>
 
 ### 🎯 Quick Stats
-- 🔥 **3+** years of coding
+- 🔥 **2+** years of coding
 - ☕ **∞** cups of coffee consumed
 - 🎵 Always coding with music
-- 🌱 Currently diving deep into **Vue 3**
 - 💡 Love solving complex problems
 - 🎮 Gamer when not coding
 
@@ -71,7 +58,7 @@ console.log("I can code for hours with good music! 🎵");
 <tr>
 <td align="center">
 
-### 🔧 Backend Magic
+### 🔧 Backend 
 <img src="https://skillicons.dev/icons?i=php,laravel" width="80"/>
 <br/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -80,7 +67,7 @@ console.log("I can code for hours with good music! 🎵");
 </td>
 <td align="center">
 
-### 🎨 Frontend Artistry  
+### 🎨 Frontend  
 <img src="https://skillicons.dev/icons?i=vue,react,js" width="120"/>
 <br/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
@@ -248,45 +235,6 @@ console.log("I can code for hours with good music! 🎵");
 <tr>
 <td align="center" width="25%">
 
-**🌱 Learning**
-<br/>
-Advanced Vue 3<br/>
-Composition API<br/>
-& Pinia State Management
-
-</td>
-<td align="center" width="25%">
-
-**🔨 Building**
-<br/>
-New Laravel<br/>
-SaaS Project<br/>
-with Vue 3
-
-</td>
-<td align="center" width="25%">
-
-**🎯 Planning**
-<br/>
-React Native<br/>
-Mobile App<br/>
-Development
-
-</td>
-<td align="center" width="25%">
-
-**🎵 Jamming**
-<br/>
-Coding with<br/>
-Lo-fi Hip Hop<br/>
-& Jazz
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 ## 🎵 Music & Code
@@ -308,7 +256,7 @@ Ambient Electronic
 <td align="center" width="33%">
 
 **☕ Coding Setup**
-MacBook + Coffee<br/>
+Coding + Coffee<br/>
 Spotify Premium<br/>
 VS Code Dark Theme
 
@@ -317,7 +265,6 @@ VS Code Dark Theme
 
 **⏰ Best Coding Hours**
 Late Night Sessions<br/>
-9 PM - 2 AM<br/>
 When the world is quiet
 
 </td>
@@ -328,7 +275,7 @@ When the world is quiet
 
 ---
 
-## 🌐 Let's Connect & Vibe Together!
+## 🌐 Let's Connect!
 
 <div align="center">
 
