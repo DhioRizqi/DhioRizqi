@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-> Passionate **Full Stack Web Developer** who loves turning ideas into beautiful, functional web applications. I specialize in creating seamless user experiences from database to user interface.
+> Passionate **Full Stack Web Developer** from Surabaya, Indonesia. I craft clean, efficient web applications with modern technologies, focusing on user experience and scalable solutions.
 
-- 🔭 Currently working on exciting web projects with modern technologies
-- 🌱 Always learning and exploring new frameworks and best practices
-- 💡 Love solving complex problems with clean, efficient code
-- 🎯 Goal: Building applications that make a difference
+- 🔭 Building innovative web solutions for real-world problems
+- 🌱 Continuously learning and adapting to new technologies
+- 💡 Focused on clean code architecture and optimal performance
+- 🎯 Committed to delivering quality software that matters
 - 📍 Based in Surabaya, Indonesia
 
 ## 💻 Tech Stack
@@ -92,24 +92,32 @@ const developer = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=DhioRizqi&repo=project1&theme=tokyonight)](https://github.com/DhioRizqi/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=DhioRizqi&repo=project2&theme=tokyonight)](https://github.com/DhioRizqi/project2)
+[![Belajarin Website](https://github-readme-stats.vercel.app/api/pin/?username=DhioRizqi&repo=belajarin-website&theme=tokyonight)](https://github.com/DhioRizqi/belajarin-website)
+[![CuciKin](https://github-readme-stats.vercel.app/api/pin/?username=DhioRizqi&repo=CuciKin&theme=tokyonight)](https://github.com/DhioRizqi/CuciKin)
 
 </div>
 
-### 🌟 Highlighted Work
+### 🌟 Featured Projects
 
-- **🛒 E-Commerce Platform** - Full-stack application built with Laravel + Vue.js
-  - Features: User authentication, payment integration, admin dashboard
-  - Tech: Laravel, Vue.js, MySQL, Stripe API
+- **🎓 Belajarin** - Online learning platform for Indonesian students
+  - Features: Course management, user authentication, progress tracking
+  - Tech: Laravel, Vue.js, MySQL, responsive design
+  - [View Project →](https://github.com/DhioRizqi/belajarin-website)
 
-- **📱 Task Management App** - Modern task manager with real-time updates
-  - Features: Drag & drop, real-time collaboration, responsive design
-  - Tech: React, Laravel API, WebSockets, Tailwind CSS
+- **🧽 CuciKin** - Laundry service management system
+  - Features: Order management, service tracking, customer dashboard
+  - Tech: Laravel, PHP, MySQL, Bootstrap
+  - [View Project →](https://github.com/DhioRizqi/CuciKin)
 
-- **🎨 Portfolio Website** - Custom-designed portfolio with smooth animations
-  - Features: Dynamic content, contact form, blog system
-  - Tech: Laravel, Vue.js, Figma design
+- **💼 Personal Portfolio** - Interactive portfolio showcase
+  - Features: Smooth animations, project gallery, contact form
+  - Tech: HTML5, CSS3, JavaScript, responsive design
+  - [View Project →](https://github.com/DhioRizqi/Portofolio-Html-Css-Js)
+
+- **💝 Camelia Love** - Creative digital experience
+  - Features: Interactive elements, custom animations, modern UI
+  - Tech: HTML, CSS, JavaScript, creative coding
+  - [View Project →](https://github.com/DhioRizqi/camelia-love)
 
 ## 🎯 Skills Breakdown
 
