@@ -1,46 +1,67 @@
-# 👋 Hi there, I'm Dhio Rizqi!
+# 🌈 Heyyyy there, I'm Dhio Rizqi! 🎉
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Laravel+%7C+Vue+%7C+React+Enthusiast;Building+Amazing+Web+Experiences)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🚀+Full+Stack+Web+Developer;🎨+Laravel+%7C+Vue+%7C+React+Wizard;✨+Building+Magical+Web+Experiences;🌟+Code+%2B+Coffee+%3D+❤️)
 
-[![GitHub followers](https://img.shields.io/github/followers/DhioRizqi?style=social)](https://github.com/DhioRizqi)
-[![GitHub stars](https://img.shields.io/github/stars/DhioRizqi?style=social)](https://github.com/DhioRizqi)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 </div>
 
-## 🚀 About Me
+## 🎭 About This Fun Developer!
+
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+</div>
 
 ```javascript
 const dhio = {
     location: "Indonesia 🇮🇩",
-    role: "Full Stack Web Developer",
-    passion: "Creating seamless user experiences",
-    currentFocus: "Modern web development with Laravel & Vue ecosystem",
-    lifePhilosophy: "Code with purpose, build with passion ✨"
+    role: "🧙‍♂️ Full Stack Web Wizard",
+    superPower: "Turning coffee ☕ into beautiful code ✨",
+    currentQuest: "Building awesome web adventures with Laravel & Vue!",
+    motto: "Debug by day, dream by night! 🌙",
+    funFact: "I speak fluent PHP, Vue, and React... sometimes all at once! 🤯"
 };
 ```
 
-## 💻 Tech Stack
+## 🛠️ My Magical Toolbox
 
-### 🎯 Backend Development
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding gif" width="300">
+</div>
 
-### 🎨 Frontend Development
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎯 Backend Sorcery
+<div align="center">
 
-### 🛠️ Tools & Environment
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-🐘_PHP-8892BF?style=for-the-badge&logo=php&logoColor=white&labelColor=FF69B4)
+![Laravel](https://img.shields.io/badge/Laravel-🏰_Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF6B6B)
+![MySQL](https://img.shields.io/badge/MySQL-🗃️_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4ECDC4)
+![SQL](https://img.shields.io/badge/SQL-📊_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=95E1D3)
+
+</div>
+
+### 🎨 Frontend Magic
+<div align="center">
+
+![Vue.js](https://img.shields.io/badge/Vue.js-💚_Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=42B883)
+![React](https://img.shields.io/badge/React-⚛️_React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A)
+![JavaScript](https://img.shields.io/badge/JavaScript-⚡_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFE66D)
+![HTML5](https://img.shields.io/badge/HTML5-🏗️_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6B6B)
+![CSS3](https://img.shields.io/badge/CSS3-🎨_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=4FC3F7)
+
+</div>
+
+### 🛠️ My Favorite Toys
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-🎭_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=FF7043)
+![VS Code](https://img.shields.io/badge/VS_Code-💻_VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=42A5F5)
+![Laragon](https://img.shields.io/badge/Laragon-🚀_Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white&labelColor=26C6DA)
+![Git](https://img.shields.io/badge/Git-🐙_Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=FF5722)
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -54,42 +75,89 @@ const dhio = {
 
 </div>
 
-## 🎯 What I Do
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Dhio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhioRizqi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+
+![Dhio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhioRizqi&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhioRizqi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+## 🎯 What This Developer Does Daily
+
+<div align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding life" width="300">
+</div>
 
 ```php
 <?php
 
-class FullStackDeveloper 
+class FunFullStackDeveloper 
 {
-    public function buildAmazingThings(): array
+    public function dailyRoutine(): array
     {
         return [
-            '🔧 Full-stack web applications with Laravel + Vue/React',
-            '🎨 Responsive and interactive user interfaces',
-            '⚡ RESTful APIs and database optimization',
-            '📱 Modern SPA (Single Page Applications)',
-            '🚀 Performance optimization and best practices'
+            '☕ Start day with coffee and positive vibes',
+            '🔧 Build full-stack web apps with Laravel + Vue/React',
+            '🎨 Create pixel-perfect, responsive interfaces',
+            '⚡ Optimize APIs and database performance',
+            '📱 Craft modern SPAs that users love',
+            '🚀 Deploy awesome projects to the world',
+            '🌙 Dream about clean code while sleeping'
         ];
     }
     
-    public function getWorkingStyle(): string
+    public function getWorkingVibes(): string
     {
-        return "Clean code, pixel-perfect designs, optimal performance 🎯";
+        return "Clean code + Fun designs + Happy users = Perfect day! 🌈";
     }
 }
 ```
 
-## 🌟 Featured Projects
+## 🌟 My Awesome Projects Portfolio
 
-<!-- Replace these with your actual projects -->
 <div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="projects" width="400">
+</div>
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🚀 **Project Name** | Brief description of your amazing project | Laravel, Vue.js, MySQL | [Live Demo](link) |
-| 🎨 **Another Project** | Another cool project description | React, PHP, SQL | [Repository](link) |
-| ⚡ **Third Project** | Yet another awesome project | Laravel, Vue, Figma | [View Project](link) |
+### 🎓 **Belajarin Website** - Learning Platform Magic!
+📚 *An amazing educational platform where learning meets fun!*
+- **Tech Stack:** Laravel ❤️ Vue.js ❤️ MySQL  
+- **Features:** Interactive learning modules, user management, progress tracking
+- [🔗 Explore Repository](https://github.com/DhioRizqi/belajarin-website)
 
+---
+
+### 🧺 **CuciKin** - Laundry Management System
+👕 *Making laundry management as easy as pressing a button!*
+- **Tech Stack:** Laravel ❤️ PHP ❤️ SQL Database
+- **Features:** Order management, customer tracking, service automation  
+- [🔗 Check it Out](https://github.com/DhioRizqi/CuciKin)
+
+---
+
+### 🎨 **Personal Portfolio** - My Digital Showcase
+✨ *A beautiful showcase of my journey as a developer!*
+- **Tech Stack:** Pure HTML5 ❤️ CSS3 ❤️ JavaScript
+- **Features:** Responsive design, smooth animations, contact forms
+- [🔗 View Portfolio](https://github.com/DhioRizqi/Portofolio-Html-Css-Js)
+
+---
+
+### 💝 **Camelia Love** - Special Project
+🌸 *A heartfelt project built with love and dedication!*
+- **Tech Stack:** Creative Web Technologies
+- **Features:** Beautiful UI, interactive elements, personalized experience
+- [🔗 Discover More](https://github.com/DhioRizqi/camelia-love)
+
+<div align="center">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="coding fun" width="200">
+
+**🎉 More exciting projects coming soon! Stay tuned! 🚀**
 </div>
 
 ## 📈 Contribution Graph
@@ -100,34 +168,50 @@ class FullStackDeveloper
 
 </div>
 
-## 🤝 Let's Connect
+## 🤝 Let's Be Coding Buddies!
 
 <div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhioRizqi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-🐙_Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B)](https://github.com/DhioRizqi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-💼_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4FC3F7)](your-linkedin-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-🌐_Visit_Me-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FFB74D)](your-portfolio-link)
+[![Email](https://img.shields.io/badge/Email-📧_Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF7043)](mailto:your-email@example.com)
 
 </div>
 
-## 💡 Current Goals
+## 🎯 My Current Adventures
 
-- 🔍 Exploring advanced Laravel features and patterns
-- 🎨 Mastering Vue 3 Composition API
-- ⚛️ Deepening React and Next.js knowledge  
-- 🚀 Contributing more to open source projects
-- 📚 Learning DevOps and cloud technologies
+<div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="learning" width="300">
+</div>
+
+- 🔍 **Exploring** advanced Laravel wizardry and design patterns
+- 🎨 **Mastering** Vue 3 Composition API like a ninja  
+- ⚛️ **Diving deeper** into React and Next.js ocean
+- 🚀 **Contributing** more awesome stuff to open source
+- 📚 **Learning** DevOps and cloud technologies for world domination
+- 🌟 **Building** more projects that make people smile
 
 ---
 
 <div align="center">
 
-### 💭 Developer Quote
-*"The best error message is the one that never shows up."* - Thomas Fuchs
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
 
-**Thanks for stopping by! Let's build something amazing together! 🚀**
+### 💭 My Favorite Dev Quote
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="50">
+
+**Thanks for visiting my colorful corner of GitHub! Let's create something magical together! 🌈✨**
+
+<div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/DhioRizqi/count.svg)
+
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+</div>
 
 </div>
