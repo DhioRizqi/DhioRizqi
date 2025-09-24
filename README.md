@@ -1,84 +1,160 @@
-<!-- Banner -->
-![Banner](https://raw.githubusercontent.com/username/username/main/banner.png)
+# Hi there! 👋 I'm DhioRizqi
 
-<h1 align="center">Hi 👋, I'm Dhio</h1>
-<h3 align="center">🚀 Fullstack Web Developer | Laravel • Vue • React • SQL • PHP</h3>
-
-<p align="center">
-  <a href="https://github.com/username">
-    <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/username?tab=followers">
-    <img src="https://img.shields.io/github/followers/username?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
-
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Laravel+%7C+Vue+%7C+React;Crafting+Digital+Experiences" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Fullstack Web Development Projects**
-- 🌱 I’m learning **Advanced Laravel & Vue.js**
-- 💬 Ask me about **Laravel, Vue, React, SQL, PHP**
-- ⚡ Fun fact: *I love turning coffee ☕ into clean code 💻*
 
----
+> Passionate **Full Stack Web Developer** who loves turning ideas into beautiful, functional web applications. I specialize in creating seamless user experiences from database to user interface.
 
-## 🛠️ Tech Stack
+- 🔭 Currently working on exciting web projects with modern technologies
+- 🌱 Always learning and exploring new frameworks and best practices
+- 💡 Love solving complex problems with clean, efficient code
+- 🎯 Goal: Building applications that make a difference
+- 📍 Based in Surabaya, Indonesia
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+## 💻 Tech Stack
 
----
+<div align="center">
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Environment
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 🛠️ What I Do
+
+```javascript
+const developer = {
+    name: "DhioRizqi",
+    role: "Full Stack Web Developer",
+    
+    frontend: {
+        frameworks: ["Vue.js", "React"],
+        styling: ["CSS3", "Tailwind CSS", "Bootstrap"],
+        state_management: ["Vuex", "Redux"]
+    },
+    
+    backend: {
+        languages: ["PHP"],
+        frameworks: ["Laravel"],
+        architecture: ["MVC", "RESTful APIs", "Microservices"]
+    },
+    
+    database: {
+        sql: ["MySQL", "PostgreSQL"],
+        orm: ["Eloquent"]
+    },
+    
+    tools: {
+        design: ["Figma"],
+        editor: ["VS Code"],
+        local_env: ["Laragon"],
+        version_control: ["Git", "GitHub"]
+    },
+    
+    currently_learning: ["TypeScript", "Node.js", "Docker"],
+    fun_fact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+```
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" alt="langs" height="180em" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhioRizqi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhioRizqi&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhioRizqi&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=DhioRizqi&repo=project1&theme=tokyonight)](https://github.com/DhioRizqi/project1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=DhioRizqi&repo=project2&theme=tokyonight)](https://github.com/DhioRizqi/project2)
+
+</div>
+
+### 🌟 Highlighted Work
+
+- **🛒 E-Commerce Platform** - Full-stack application built with Laravel + Vue.js
+  - Features: User authentication, payment integration, admin dashboard
+  - Tech: Laravel, Vue.js, MySQL, Stripe API
+
+- **📱 Task Management App** - Modern task manager with real-time updates
+  - Features: Drag & drop, real-time collaboration, responsive design
+  - Tech: React, Laravel API, WebSockets, Tailwind CSS
+
+- **🎨 Portfolio Website** - Custom-designed portfolio with smooth animations
+  - Features: Dynamic content, contact form, blog system
+  - Tech: Laravel, Vue.js, Figma design
+
+## 🎯 Skills Breakdown
+
+<div align="center">
+
+| Category | Skills |
+|----------|--------|
+| **Frontend Development** | Vue.js, React, JavaScript ES6+, HTML5, CSS3, Responsive Design |
+| **Backend Development** | Laravel, PHP, RESTful APIs, Authentication, Authorization |
+| **Database Management** | MySQL, PostgreSQL, Database Design, Query Optimization |
+| **UI/UX Design** | Figma, Wireframing, Prototyping, User Experience Design |
+| **Development Tools** | VS Code, Laragon, Git, GitHub, Composer, NPM |
+| **Other Skills** | Problem Solving, Code Review, Testing, Documentation |
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhioRizqi&theme=tokyo-night&hide_border=true" />
+</div>
+
+## 🎨 Design Philosophy
+
+> "Great design is not just how it looks and feels. Great design is how it works." - Steve Jobs
+
+I believe in creating applications that are not only visually appealing but also intuitive and performant. Every project starts with understanding user needs, moves through thoughtful design in Figma, and is brought to life with clean, maintainable code.
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhioRizqi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=username&theme=radical&hide_border=false" alt="streak" />
-</p>
-
----
-
-## 🌱 Featured Projects
-- [Belajarin](https://github.com/username/belajarin) – Online Course Platform (Laravel + Vue.js + Tailwind)
-- [Smart Village](https://github.com/username/smart-village) – UI/UX Challenge Project
-- [Portfolio Website](https://github.com/username/portfolio) – Responsive Portfolio with React + Tailwind
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=username&theme=react-dark" alt="activity graph" />
-</p>
-
----
-
-## 📫 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h3 align="center">✨ "Code is like humor. When you have to explain it, it’s bad." ✨</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DhioRizqi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  **💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+  
+  ⭐ Star my repositories if you find them helpful! ⭐
+</div>
