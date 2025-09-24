@@ -227,16 +227,6 @@ console.log("I can code for hours with good music! 🎵");
 
 ---
 
-## 📈 What I'm Up To
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
----
-
 ## 🎵 Music & Code
 
 <div align="center">
