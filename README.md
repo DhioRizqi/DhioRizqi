@@ -1,281 +1,133 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DhioRizqi&fontSize=90&fontAlign=70&fontAlignY=40&desc=Full%20Stack%20Web%20Developer&descAlign=70&descAlignY=55)
-
-</div>
+# 👋 Hi there, I'm Dhio Rizqi!
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Laravel+%E2%9C%A8+Vue+%E2%9C%A8+React;Building+Digital+Experiences;Clean+Code+%7C+Modern+Design;From+Surabaya+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Laravel+%7C+Vue+%7C+React+Enthusiast;Building+Amazing+Web+Experiences)
+
+[![GitHub followers](https://img.shields.io/github/followers/DhioRizqi?style=social)](https://github.com/DhioRizqi)
+[![GitHub stars](https://img.shields.io/github/stars/DhioRizqi?style=social)](https://github.com/DhioRizqi)
 
 </div>
 
----
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 👨‍💻 About Me
-
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string;
-  languages: string[];
-  frameworks: string[];
-  tools: string[];
-  currentFocus: string[];
-  motto: string;
-}
-
-const dhio: Developer = {
-  name: "DhioRizqi",
-  location: "Surabaya, Indonesia 🇮🇩",
-  role: "Full Stack Web Developer",
-  languages: ["PHP", "JavaScript", "SQL"],
-  frameworks: ["Laravel", "Vue.js", "React"],
-  tools: ["VS Code", "Figma", "Laragon", "Git"],
-  currentFocus: ["Laravel Ecosystem", "Modern UI/UX"],
-  motto: "Code with purpose, design with passion ✨"
+```javascript
+const dhio = {
+    location: "Indonesia 🇮🇩",
+    role: "Full Stack Web Developer",
+    passion: "Creating seamless user experiences",
+    currentFocus: "Modern web development with Laravel & Vue ecosystem",
+    lifePhilosophy: "Code with purpose, build with passion ✨"
 };
 ```
 
-<br clear="both">
+## 💻 Tech Stack
 
----
+### 🎯 Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🛠️ Tech Arsenal
+### 🎨 Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Tools & Environment
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
 
 <div align="center">
+  
+![Dhio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhioRizqi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-<br><strong>Laravel</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-<br><strong>Vue.js</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br><strong>PHP</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br><strong>CSS3</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br><strong>Figma</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br><strong>Bootstrap</strong>
-</td>
-</tr>
-</table>
+![Dhio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhioRizqi&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhioRizqi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
----
+## 🎯 What I Do
 
-## 📊 GitHub Analytics
+```php
+<?php
 
+class FullStackDeveloper 
+{
+    public function buildAmazingThings(): array
+    {
+        return [
+            '🔧 Full-stack web applications with Laravel + Vue/React',
+            '🎨 Responsive and interactive user interfaces',
+            '⚡ RESTful APIs and database optimization',
+            '📱 Modern SPA (Single Page Applications)',
+            '🚀 Performance optimization and best practices'
+        ];
+    }
+    
+    public function getWorkingStyle(): string
+    {
+        return "Clean code, pixel-perfect designs, optimal performance 🎯";
+    }
+}
+```
+
+## 🌟 Featured Projects
+
+<!-- Replace these with your actual projects -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhioRizqi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFE66D&text_color=C9D1D9" alt="DhioRizqi's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhioRizqi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9"/>
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| 🚀 **Project Name** | Brief description of your amazing project | Laravel, Vue.js, MySQL | [Live Demo](link) |
+| 🎨 **Another Project** | Another cool project description | React, PHP, SQL | [Repository](link) |
+| ⚡ **Third Project** | Yet another awesome project | Laravel, Vue, Figma | [View Project](link) |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhioRizqi&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FFE66D&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FFE66D&sideLabels=C9D1D9&dates=C9D1D9" alt="DhioRizqi's GitHub Streak"/>
-</div>
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhioRizqi&custom_title=DhioRizqi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=C9D1D9&line=FF6B6B&point=FFE66D&area_color=FF6B6B&area=true&hide_border=true" width="100%"/>
+  
+![Dhio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhioRizqi&theme=tokyo-night&hide_border=true)
+
 </div>
 
----
-
-## 🚀 Featured Projects
+## 🤝 Let's Connect
 
 <div align="center">
 
-### 🎯 Project Showcase
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎓 [Belajarin](https://github.com/DhioRizqi/belajarin-website)
-*Online Learning Platform*
-
-```
-📚 Interactive course management
-👥 User authentication & profiles  
-📊 Progress tracking system
-📱 Responsive design
-```
-
-**Tech:** `Laravel` `Vue.js` `MySQL`
-
-</td>
-<td width="50%">
-
-#### 🧽 [CuciKin](https://github.com/DhioRizqi/CuciKin)
-*Laundry Management System*
-
-```
-🔄 Order processing workflow
-👤 Customer dashboard
-📋 Service tracking
-💳 Payment integration ready
-```
-
-**Tech:** `Laravel` `PHP` `Bootstrap`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 💼 [Personal Portfolio](https://github.com/DhioRizqi/Portofolio-Html-Css-Js)
-*Interactive Portfolio*
-
-```
-✨ Smooth animations
-📱 Fully responsive
-🎨 Modern UI design
-📞 Contact integration
-```
-
-**Tech:** `HTML5` `CSS3` `JavaScript`
-
-</td>
-<td width="50%">
-
-#### 💝 [Camelia Love](https://github.com/DhioRizqi/camelia-love)
-*Creative Digital Experience*
-
-```
-🎨 Interactive elements
-💫 Custom animations
-🎭 Creative coding
-💕 Emotional design
-```
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-</table>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhioRizqi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
+
+## 💡 Current Goals
+
+- 🔍 Exploring advanced Laravel features and patterns
+- 🎨 Mastering Vue 3 Composition API
+- ⚛️ Deepening React and Next.js knowledge  
+- 🚀 Contributing more to open source projects
+- 📚 Learning DevOps and cloud technologies
 
 ---
 
 <div align="center">
 
-## 💭 Development Philosophy
+### 💭 Developer Quote
+*"The best error message is the one that never shows up."* - Thomas Fuchs
 
-> *"Great software is built not just with code, but with empathy for the user, passion for problem-solving, and commitment to continuous learning."*
+**Thanks for stopping by! Let's build something amazing together! 🚀**
 
-</div>
-
-<div align="center">
-
-### 🎯 What Drives Me
-
-```mermaid
-mindmap
-  root((DhioRizqi))
-    Frontend
-      Vue.js Ecosystem
-      React Components  
-      Modern UI/UX
-      Responsive Design
-    Backend
-      Laravel Architecture
-      API Development
-      Database Design
-      Security Best Practices
-    Tools
-      VS Code Extensions
-      Figma Prototyping
-      Git Workflows
-      Laragon Environment
-    Growth
-      Clean Code Principles
-      Performance Optimization
-      User Experience Focus
-      Continuous Learning
-```
-
-</div>
-
----
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-<a href="mailto:your.email@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-</a>
-<a href="https://github.com/DhioRizqi" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-</a>
-<a href="https://yourportfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=DhioRizqi&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-
-### 🎵 Currently Coding To
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&limit=1)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer)
-
-**⭐ If you find my projects interesting, don't forget to star them! ⭐**
-
-*"Code is poetry written in logic"* 
+![Visitor Count](https://profile-counter.glitch.me/DhioRizqi/count.svg)
 
 </div>
